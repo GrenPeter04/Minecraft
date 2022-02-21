@@ -2,7 +2,7 @@
     "ip": "GrenPeter04.aternos.me",
     "port": 19594,
     "name": "GrenBOT01",
-    "auto-night-skip": "true",
+    "auto-night-skip": "false",
     "join-msg": "hello",
     "join-msg-on": "true",
     "custom-message-enabled": "true",
