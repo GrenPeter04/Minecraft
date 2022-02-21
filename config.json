@@ -1,0 +1,14 @@
+{
+    "ip": "GrenPeter04.aternos.me",
+    "port": 1959,
+    "name": "BOT",
+    "auto-night-skip": "false",
+    "join-msg": "hello",
+    "join-msg-on": "true",
+    "custom-message-enabled": "true",
+    "custom-message-1": "Bot \u0432\u0441\u0451 \u0435\u0449\u0451 \u0437\u0434\u0435\u0441\u044c",
+    "custom-message-2": "Bot \u0432\u0441\u0451 \u0435\u0449\u0451 \u0437\u0434\u0435\u0441\u044c",
+    "login-enabled": "false",
+    "register-cmd": "/register 12345678 12345678",
+    "login-cmd": "/login 12345678"
+}
